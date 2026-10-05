@@ -1,6 +1,6 @@
 # Autovalidate
 
-[![Build](https://github.com/ChicoState/autovalidate/actions/workflows/build.yml/badge.svg)](https://github.com/ChicoState/autovalidate/actions/workflows/build.yml)
+[![Build](https://github.com/ajoseph2-art/autovalidate/actions/workflows/build.yml/badge.svg)](https://github.com/ajoseph2-art/autovalidate/actions/workflows/build.yml)
 
 This is a simple C++ command line application that agrees with all your hot takes.
 
